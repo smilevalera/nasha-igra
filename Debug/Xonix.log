@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\st\source\repos\Xonix\barrier.h(30,28): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  Xonix.vcxproj -> C:\Users\st\source\repos\Xonix\Debug\Xonix.exe
